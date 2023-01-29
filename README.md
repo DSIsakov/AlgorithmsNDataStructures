@@ -1,2 +1,2 @@
-# AlgorithmsNDataStructures
+# Алгоритмы и Структуры Данных
  
